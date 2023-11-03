@@ -1,11 +1,11 @@
 # Production Regulator
 
-# Overview
+## Overview
 
 This Java application simulates a production and consumption process within a store using a multi-threaded environment. It showcases object-oriented programming principles, design patterns such as Singleton and Observer, and synchronization techniques for concurrent thread execution.
 
-# Features
-Singleton Store: A unique central inventory system managing the production and consumption of products.
+## Features
+ Singleton Store: A unique central inventory system managing the production and consumption of products.
 
 Multithreaded Workers: Workers that produce products at varying speeds and add them to the store inventory.
 
@@ -19,8 +19,8 @@ Dynamic Worker Adjustment: Ability to increase or decrease the number of worker 
 
 Persistent State: Features for saving and loading the state of the application.
 
-# GUI
+## GUI
 The graphical user interface provides real-time updates on the store's inventory capacity, logs significant events, and allows the user to interact with the simulation by adding or removing workers and saving or loading the application state.
 
-#Usage
+## Usage
 To run the simulation, clone the repository and execute the main program. The GUI will display the store's status and provide controls for interacting with the simulation.
