@@ -1,6 +1,5 @@
-# JAVA22-java2-slutprojekt-Anton-Hansson
-
 # Production Regulator
+
 # Overview
 
 This Java application simulates a production and consumption process within a store using a multi-threaded environment. It showcases object-oriented programming principles, design patterns such as Singleton and Observer, and synchronization techniques for concurrent thread execution.
